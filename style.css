@@ -32,7 +32,7 @@ header {
     margin-left: 40px;
     width: 44%;
     background: #ebebeb;
-    height: 300px;
+    height: 500px;
     float: left;
 }
 
@@ -53,7 +53,7 @@ aside {
     color: #ebebeb;
     background: #777;
     width: 83%;
-    height: 240px;
+    height: 350px;
     margin-left: 50px;
     margin-top: 10px;
 
@@ -96,7 +96,7 @@ img {
     text-align: center;
     background: #ebebeb;
     width: 47%;
-    height: 300px;
+    height: 500px;
     margin-right: 40px;
     color: #777;
     float: right;
@@ -114,6 +114,6 @@ footer {
     margin-left: 40px;
     margin-right: 40px;
     position: relative;
-    top: 195px;
+    top: 15px;
     padding-top: 2.5%;
 }
